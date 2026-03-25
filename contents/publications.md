@@ -1,4 +1,4 @@
-- XXXXXXX论文
+- <BONDED>
 
 - XXXXXXX论文
 

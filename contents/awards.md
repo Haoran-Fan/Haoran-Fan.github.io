@@ -1,3 +1,1 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 校级吃屎大赛😋💩一等奖, 2022.  

@@ -1,20 +1,16 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+求职意向：北京-年薪一百万-朝九晚五
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>fanhaoran@tju.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**天津大学**, 工学硕士，化学工程 (2023.9 – 2026.6)  
+• 保研，GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
+**天津大学**, 工学学士，化学工程 (2023.9 – 2026.6)  
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+科学大模型, SMILES, XX, XX.
